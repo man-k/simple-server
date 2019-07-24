@@ -1,4 +1,4 @@
 # simple-server
 
-a simple server use apollo-server-express
+a simple server using apollo-server-express
 
